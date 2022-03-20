@@ -1,0 +1,17 @@
+By Darshan D V (16CO216) and Piyush Hanchate (16CO232) | Blowfish Implementation .
+File size = 943718400 bytes, numblocks = 117964800
+Key = TESTKEY, length = 7
+Key schedule complete!
+Original hash = dbf8d214f6639d3a
+CUDA Starts!
+Encryption starts...
+Encryption done!
+Time taken: 127.736832 milliseconds
+Average speed: 7045.735840 MB/s
+Encrypted hash = 90195e72740cd97c
+Decryption starts...
+Decryption done!
+Time taken: 126.596771 milliseconds
+Average speed: 7109.186035 MB/s
+Decrypted hash = dbf8d214f6639d3a
+Hashes match! PASSED!

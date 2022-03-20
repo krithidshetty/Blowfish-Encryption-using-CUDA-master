@@ -1,0 +1,4 @@
+Before running any version of the code, the user need to generate a test file. The tool to generate a test file is located in the directory filegen.
+1.	To use, simply run make and then ./filegen. 
+2.	The program ask for the size of the generated file in MB. it is advised that the user generates a file of around 1GB to reliably measure the runtime and throughput of the program. 
+3.	By default, this file will be located at ../testfile after generation. Alternatively, the user can move any file he wants to use at the test file to the parent directory and rename it testfile without extensions
