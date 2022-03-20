@@ -1,4 +1,4 @@
-By Darshan D V (16CO216) and Piyush Hanchate (16CO232) | Blowfish Implementation .
+
 File size = 943718400 bytes, numblocks = 117964800
 Key = TESTKEY, length = 7
 Key schedule complete!
